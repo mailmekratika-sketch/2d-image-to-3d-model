@@ -1,0 +1,22 @@
+{
+  "name": "mini-project",
+  "version": "1.0.0",
+  "description": "2D image to 3D model web app",
+  "main": "backend/index.js",
+  "scripts": {
+    "dev": "node backend/index.js"
+  },
+  "keywords": [
+    "2D-to-3D",
+    "webapp",
+    "three.js",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.1",
+    "multer": "^2.1.1"
+  }
+}
